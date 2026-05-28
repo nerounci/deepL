@@ -29,7 +29,7 @@
 - **Описание:** 1000 оригинальных + 4000 манипулированных видео (4 метода манипуляции)
 - **Доступ:** Заполнить форму на https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EqLrmco2Cs_H7zg/viewform
 
-### Альтернативный (лёгкий старт): Celeb-DF v2
+### Альтернативный Celeb-DF v2
 - **Ссылка:** https://github.com/yuezunli/celeb-deepfakeforensics
 - **Размер:** ~7GB
 - **Описание:** 590 реальных + 5639 дипфейк видео
