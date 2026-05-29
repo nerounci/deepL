@@ -1,4 +1,4 @@
-# 🔍 Deepfake Detection System — Deep Learning Project
+# Deepfake Detection System — Deep Learning Project
 
 ## Комплексная система обнаружения дипфейков с использованием методов глубокого обучения
 
